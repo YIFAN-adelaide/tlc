@@ -2,6 +2,8 @@
 
 End-to-end data engineering project that ingests NYC TLC Yellow Taxi monthly data, performs automated incremental ingestion, standardizes and validates records into a Silver Delta layer (with rejects auditing), generates BI-ready Gold aggregates, and visualizes KPIs in Power BI.
 
+THERE IS ALSO A ADF TEMPLATE FOR YOU TO TEST. PLEASE CONTACT THE AUOTHER yifan.li-0810@outlook.com TO ACCESS IT. THE TEMPLATE IS NOT UPLOADED DUE TO SECURITY CONCERN.
+
 ---
 
 ## Table of Contents
